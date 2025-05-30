@@ -1,1 +1,2 @@
 This just a text2 file
+This is text2 file second time
